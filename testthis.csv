@@ -1,0 +1,12 @@
+,Receipt number,Carrier Barcode,payment time,Running receipt number,Order No.,Order source,Order Type,Table,Service Charge,Delivery fee,Discount amount,payment amount,Payment method,Payment Detail,Payment Notes,Current Status,Customer Name,customer phone number,Order note,items,Buyer,Buyer's phone
+0,VQ58317514,--,2023-11-22 11:50:02,1,--,On site,take out,--,0,--,0,50,Cash(Cash payment module),Customer Paid:50 Change:--,--,used,--,--,--,Soda $50.0,--,--
+1,VQ58317515,--,2023-11-22 11:58:10,2,--,On site,Dine In,A1,0,--,0,330,Cash(Cash payment module),Customer Paid:1000 Change:670,--,used,--,--,--,"Soda $50.0,Original Chicken Biscuit $280.0",--,--
+2,VQ58317516,--,2023-11-22 11:59:27,3,--,On site,Dine In,A2,0,--,0,460,Cash(Cash payment module),Customer Paid:1000 Change:540,--,used,--,--,--,"Bundaberg $150.0,Original Chicken Biscuit $310.0",--,--
+3,VQ58317517,/81NO+N2,2023-11-22 12:03:42,4,--,On site,take out,--,0,--,0,280,Cash(Cash payment module),Customer Paid:300 Change:20,--,used,--,--,--,Original Chicken Biscuit $280.0,--,--
+4,VQ58317518,/O2L7-0S,2023-11-22 12:04:32,5,--,On site,take out,--,0,--,0,280,Cash(Cash payment module),Customer Paid:300 Change:20,--,used,--,--,--,Original Chicken Biscuit $280.0,--,--
+5,VQ58317519,/9ZDHYGP,2023-11-22 12:06:46,6,--,On site,take out,--,0,--,0,150,Cash(Cash payment module),Customer Paid:150 Change:--,--,used,--,--,--,Biscuit $150.0,--,--
+6,VQ58317520,/ZCF2KPC,2023-11-22 12:26:19,7,--,On site,take out,--,0,--,0,280,Cash(Cash payment module),Customer Paid:300 Change:20,--,used,--,--,--,Bacon Egg and Cheese $280.0,--,--
+7,VQ58317521,/WV8FWEB,2023-11-22 12:46:16,8,--,On site,take out,--,0,--,0,340,Cash(Cash payment module),Customer Paid:1000 Change:660,--,used,--,--,--,Chicken Tender Box $340.0,--,--
+8,VQ58317522,--,2023-11-22 13:35:51,9,--,On site,take out,--,0,--,0,310,Cash(Cash payment module),Customer Paid:1000 Change:690,--,used,--,--,--,Original Chicken Biscuit $310.0,--,--
+9,VQ58317523,/6J5R2GE,2023-11-22 18:02:00,10,--,On site,take out,--,0,--,0,530,Cash(Cash payment module),Customer Paid:1000 Change:470,--,used,--,--,--,"Original Chicken Biscuit $280.0,Bacon Egg and Cheese $250.0",--,--
+10,VQ58317524,/Z32H2YX,2023-11-22 19:07:53,11,--,On site,take out,--,0,--,0,280,Cash(Cash payment module),Customer Paid:300 Change:20,--,used,--,--,--,Original Chicken Biscuit $280.0,--,--
