@@ -1,0 +1,6 @@
+,Receipt number,Carrier Barcode,payment time,Running receipt number,Order No.,Order source,Order Type,Table,Service Charge,Delivery fee,Discount amount,payment amount,Payment method,Payment Detail,Payment Notes,Current Status,Customer Name,customer phone number,Order note,items,Buyer,Buyer's phone
+0,VQ58317546,--,2023-11-27 12:15:23,1,--,On site,Dine In,A1,0,--,0,710,Cash(Cash payment module),Customer Paid:1000 Change:290,--,used,--,--,--,"Original Chicken Biscuit $370.0,Original Chicken Biscuit $340.0",--,--
+1,VQ58317547,/ZCF2KPC,2023-11-27 12:19:53,2,--,On site,take out,--,0,--,0,310,Cash(Cash payment module),Customer Paid:310 Change:--,--,used,--,--,--,Original Chicken Biscuit $310.0,--,--
+2,VQ58317548,--,2023-11-27 12:21:40,3,--,On site,Dine In,A2,0,--,0,460,Cash(Cash payment module),Customer Paid:1000 Change:540,--,used,--,--,--,"Original Chicken Biscuit $310.0,Bundaberg $150.0",--,--
+3,VQ58317549,--,2023-11-27 12:22:35,4,--,On site,Dine In,A3,0,--,0,460,Cash(Cash payment module),Customer Paid:500 Change:40,--,used,--,--,--,"Original Chicken Biscuit $310.0,Bundaberg $150.0",--,--
+4,VQ58317550,/83MWH49,2023-11-27 14:29:08,5,--,On site,take out,--,0,--,0,620,Cash(Cash payment module),Customer Paid:1000 Change:380,--,used,--,--,--,"Original Chicken Biscuit $280.0,Chicken Tender Box $340.0",--,--
