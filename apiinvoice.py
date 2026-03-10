@@ -5,7 +5,6 @@ import os
 import datetime
 import requests
 
-api_url = "https://"
 
 # Function to check if the path is a valid file
 def is_valid_file(path):
@@ -99,23 +98,23 @@ with open(invoices_csv, newline='') as csvin:
         current_invoice['sumpayed'] = invoice_price
         current_invoice['status'] = "1"
         current_invoice['statut'] = "1"
-        # items = row[20].split(',')
-        # for item in items:
-        #     item_separated = item.split('$')
-        #     item_name = item_separated[0].strip()
-        #     item_price = str(int(float(item_separated[1])))
-        #     current_line = blank_line.copy()
+        items = row[20].split(',')
+        for item in items:
+            item_separated = item.split('$')
+            item_name = item_separated[0].strip()
+            item_price = str(int(float(item_separated[1])))
+            current_line = blank_line.copy()
 
-        #     current_line['fk_facture'] = row[1]
-        #     current_line['fk_product'] = product_map.get(item_name)
-        #     current_line['description'] = item
-        #     current_line['desc'] = item
-        #     current_line['qty'] = 1
-        #     current_line['total_ttc'] = item_price
-        #     current_line['total_ht'] = item_price
-        #     current_line['date_start'] = invoice_time
-        #     current_line['date_end'] = invoice_time
-        #     current_invoice['lines'].append(current_line)
+            current_line['fk_facture'] = row[1]
+            current_line['fk_product'] = product_map.get(item_name)
+            current_line['description'] = item
+            current_line['desc'] = item
+            current_line['qty'] = 1
+            current_line['total_ttc'] = item_price
+            current_line['total_ht'] = item_price
+            current_line['date_start'] = invoice_time
+            current_line['date_end'] = invoice_time
+            current_invoice['lines'].append(current_line)
         invoices_to_send.append(current_invoice)
 
 thing = json.dumps(invoices_to_send, indent=2)

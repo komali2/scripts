@@ -1,0 +1,30 @@
+[
+  {
+    "mode_reglement_id": 4,
+    "model_pdf": "sponge",
+    "fk_account": "3",
+    "lines": [],
+    "fk_user_author": "4",
+    "remise_absolue": "0",
+    "remise_percent": "0",
+    "revenuestamp": "0.00000000",
+    "cond_reglement_code": "RECEP",
+    "cond_reglement_doc": "Due upon receipt",
+    "mode_reglement_code": "CB",
+    "ref": "VQ58317546",
+    "ref_ext": "VQ58317546",
+    "socid": 14,
+    "date": 1701058523,
+    "datem": 1701058523,
+    "date_lim_reglement": 1701058523,
+    "date_validation": 1701058523,
+    "sumpayed": "710.00000000",
+    "paye": "1",
+    "total_ttc": "710.00000000",
+    "total_ht": "710.00000000",
+    "totalpaid": "710.00000000",
+    "sumpaid": "710.00000000",
+    "status": "1",
+    "statut": "1"
+  }
+]
