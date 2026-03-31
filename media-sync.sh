@@ -3,7 +3,7 @@
 set -e
 
 # Configuration
-DSLR_BASE="/mnt/nas_maindataset/media/Pictures/dlsr"
+DSLR_BASE="/mnt/nas_maindataset/media/Pictures/dslr"
 VIDEO_BASE="/mnt/nas_maindataset/media/Pictures/video"
 DATE_FORMAT=$(date +%Y.%m.%d)
 LOG_FILE="./sync_error.log"
