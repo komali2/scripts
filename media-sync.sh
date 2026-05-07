@@ -144,7 +144,7 @@ dslr)
 gopro)
   DEST_DIR="$VIDEO_BASE/$DATE_FORMAT"
   echo "Syncing GoPro MP4 files to $DEST_DIR..."
-  sync_files "$DEST_DIR" "*.MP4"
+  sync_files "$DEST_DIR" ""
   ;;
 360)
   DEST_DIR="$VIDEO_BASE/${DATE_FORMAT}.360"
